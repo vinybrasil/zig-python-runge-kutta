@@ -13,3 +13,5 @@ cd zigfinal && zig build-lib src/main.zig -dynamic -Doptimize=ReleaseFast
 ```
 python run.py
 ```
+
+OBS: Versions used: Python 3.12.3 and Zig 0.14.0
