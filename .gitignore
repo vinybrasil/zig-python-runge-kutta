@@ -1,0 +1,5 @@
+*.o
+*.so
+zig-out/
+.zig-cache/
+plot_rul
